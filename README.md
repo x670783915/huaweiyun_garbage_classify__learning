@@ -31,7 +31,6 @@ For better performance, i alos use [CBAM](https://arxiv.org/pdf/1807.06521.pdf
 - [ ] feature extractor
 - [ ] organize the code
 - [x] test model  
-- ...
 
 ### requirements
 - pytorch 1.3.1 or above
