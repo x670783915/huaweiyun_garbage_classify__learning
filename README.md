@@ -41,6 +41,7 @@ For better performance, i alos use [CBAM](https://arxiv.org/pdf/1807.06521.pdf
 
 
 ## Results
+Since the equipment I can use is limited, the test data I conducted are for reference only!
 
 Model | Train Acc | Val Acc | Test Acc
 -|-|-|-
