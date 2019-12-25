@@ -51,6 +51,7 @@ se_resnext101_32x4d + cbam + fc | 0.9993 | 0.9032 | 0.9005
 
 se_resnext101_32x4d + fc
 ![focalloss_train](./images/focalloss_fc_train_info.png)
+
 se_resnext101_32x4d + cbam + fc
 ![cbam_focalloss_train](./images/se_resnext101_64x4d_cbam_fl.png)
 
