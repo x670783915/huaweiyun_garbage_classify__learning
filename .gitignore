@@ -1,0 +1,12 @@
+__pycache__
+.vscode
+
+garbage_dataset_v1
+*.zip
+
+csv_classify
+train_data_v2
+tot_data
+
+pretrain_models
+models
