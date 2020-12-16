@@ -2,6 +2,7 @@
  The topic was from huawei cloud garbage classification competition. 
  To learn how to use pytorch and test the effect of the backbone(Resnet, ResNext, Se_ResNext, etc).
  
+ The project is only for learning, and i'm have not paticipate in that competition.
 
  ## Dataset
  In order to better experience the learning process, I also extended the dataset by downloading pictures of corresponding categories at Google and Baidu.
